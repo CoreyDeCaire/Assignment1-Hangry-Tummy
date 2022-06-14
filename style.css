@@ -24,8 +24,6 @@ body{
 
 header {
     background-image: url(./assets/header-burger.png);
-    /* background-size: cover; */
-    /* background-position: left; */
     height: 100vh;
     background-repeat: no-repeat;
 }
@@ -57,30 +55,6 @@ h1{
     text-align: center;
     font-size: 1rem;
 }
-/* END of social nav */
-
-/* This Section is what you changed */
-
-/* .newToOurMenu .wrapper{
-    display: flex;
-    width: 50%;
-}
-
-.fullExperience .wrapper{
-    display: flex;
-}
-
-.imgContainer{
-    display: flex;
-    object-fit: cover;
-    position: relative;
-}
-
-div .imgContainer{
-    width: 300px;
-} */
-
-/* End of what I changed */
 
 .blog h2 {
     width: 75%;
